@@ -3,7 +3,7 @@
 
 #background {
 	background-color: #316db0;
-	background-image: url(../images/background.jpg);
+	background-image: url(/images/background.jpg);
 	background-repeat: repeat-x;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -20,7 +20,7 @@
 	margin-left: auto;
 }
 #header {
-	background-image: url(../images/header.jpg);
+	background-image: url(/images/header.jpg);
 	height: 203px;
 	width: 735px;
 	margin-top: 0px;
@@ -30,7 +30,7 @@
 	overflow: hidden;
 }
 #contentarearepeat {
-	background-image: url(../images/contentarearepeat.jpg);
+	background-image: url(/images/contentarearepeat.jpg);
 	background-repeat: repeat-y;
 	height: auto;
 	width: 635px;
@@ -41,14 +41,14 @@
 	overflow: hidden;
 }
 #footer {
-	background-image: url(../images/footer.jpg);
+	background-image: url(/images/footer.jpg);
 	height: 118px;
 	width: 735px;
 	margin-top: 0px;
 	overflow: hidden;
 }
 #headline {
-	background-image: url(../images/headline.jpg);
+	background-image: url(/images/headline.jpg);
 	height: 224px;
 	width: 596px;
 	margin-top: 20px;
@@ -64,7 +64,7 @@
 	text-align: center;
 }
 .subscribebox {
-	background-image: url(../images/subscribebox.jpg);
+	background-image: url(/images/subscribebox.jpg);
 	height: 140px;
 	width: 394px;
 	margin-top: 30px;
@@ -76,7 +76,7 @@
 	padding-left: 15px;
 }
 .testimonialboxtop {
-	background-image: url(../images/testimonialboxtop.jpg);
+	background-image: url(/images/testimonialboxtop.jpg);
 	height: 43px;
 	width: 515px;
 	margin-top: 30px;
@@ -86,7 +86,7 @@
 	overflow: hidden;
 }
 .testimonialboxbodyrepeat {
-	background-image: url(../images/testimonialboxbodyrepeat.jpg);
+	background-image: url(/images/testimonialboxbodyrepeat.jpg);
 	height: auto;
 	width: 455px;
 	margin-top: 0px;
@@ -98,7 +98,7 @@
 	padding-left: 30px;
 }
 .testimonialboxbottom {
-	background-image: url(../images/testimonialboxbottom.jpg);
+	background-image: url(/images/testimonialboxbottom.jpg);
 	height: 22px;
 	width: 515px;
 	margin-top: 0px;
